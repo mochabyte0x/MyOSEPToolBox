@@ -14,4 +14,10 @@ Packer is made extra for OSEP in C#. It has the following features:
 - API Hashing
 - Polymorphism
 
+Execute via `Installutil.exe`:
+
+```
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\InstallUtil.exe /logfile= /LogToConsole=false /U loader.exe
+```
+
 Probably way too overkill, but better be safe ^^.
